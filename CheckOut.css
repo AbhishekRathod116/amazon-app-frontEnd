@@ -1,0 +1,15 @@
+.checkOut{
+    display : flex;
+    width : 100%;
+    height : max-content;
+    background-color: rgb(234, 237, 237);
+}
+.checkOut-image{
+   width : 100%;
+}
+.checkOut-title{
+    margin-top : 20px;
+    padding : 10px;
+    margin-bottom : 20px;
+    border-bottom: 1px solid lightgray;
+}
